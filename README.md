@@ -49,8 +49,8 @@ The main goal of this presentation is to prepare you for your **Demo Day** at th
 
 ### Submission Guidelines
 
-1. share the link to your project repository
-2. share the link to `.csv` file with two columns: name of the neighborhood and cluster_id
+1. Share the link to your project repository through Compass
+2. The file `submission.csv` that contains two columns, name of the neighborhood and cluster_id, should be included in the repository.
 
 
 ### How to Start
