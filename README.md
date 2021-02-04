@@ -25,7 +25,9 @@ The idea of this project is to segment the neighborhoods of New York City into s
 
 ### Data
 
-The NYC neighborhoods can be found [here](https://drive.google.com/file/d/16hGHxuPHDVVwlHhiZ5pFoNMfmGjh_JYb/view?usp=sharing).
+- The NYC neighborhoods can be found [here](https://drive.google.com/file/d/16hGHxuPHDVVwlHhiZ5pFoNMfmGjh_JYb/view?usp=sharing).
+- [Average housing prices for Manhattan and Brooklyn](https://drive.google.com/file/d/17kDaedI8cBoZz8rKY7yZ0N-QNSLChQWR/view?usp=sharing) from July 2020 by [City Realty](https://www.cityrealty.com/nyc/market-insight/rental-building-offers/battery-park-city/map-average-nyc-rent-prices-july-2020-21-buildings-offering-free-rent/45084).
+- [Median housing prices for Manhattan and Brooklyn](https://drive.google.com/file/d/1EyXSpnV--2iYmYzlGZmMgonbW9jzJdcv/view?usp=sharing) from Feb 2021 by[Zumber](https://www.zumper.com/rent-research/new-york-ny).
 
 
 ### Presentation Guidelines
