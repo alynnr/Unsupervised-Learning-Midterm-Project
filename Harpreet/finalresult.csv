@@ -1,0 +1,307 @@
+,Clusters,Neighborhood,Borough,Latitude,Longitude,Common Venue
+0,2,Allerton,Bronx,40.86578787802982,-73.85931863221647,Chinese Restaurant
+1,1,Annadale,Staten Island,40.53811417474507,-74.17854866165878,Pizza Place
+2,1,Arden Heights,Staten Island,40.54928582278321,-74.18588674583893,Pizza Place
+3,1,Arlington,Staten Island,40.63532509911492,-74.16510420241124,Pizza Place
+4,1,Arrochar,Staten Island,40.596312571276734,-74.06712363225574,Italian Restaurant
+5,3,Arverne,Queens,40.58914394372971,-73.79199233136943,Pizza Place
+6,0,Astoria,Queens,40.76850859335492,-73.91565374304234,Greek Restaurant
+7,1,Astoria Heights,Queens,40.7703173929982,-73.89467996270574,Pizza Place
+8,2,Auburndale,Queens,40.76172954903262,-73.79176243728061,Korean Restaurant
+9,2,Bath Beach,Brooklyn,40.59951870282238,-73.99875221443519,Chinese Restaurant
+10,0,Battery Park City,Manhattan,40.71193198394565,-74.01686930508617,Italian Restaurant
+11,2,Bay Ridge,Brooklyn,40.625801065010656,-74.03062069353813,Middle Eastern Restaurant
+12,0,Bay Terrace,Queens,40.782842806245554,-73.7768022262158,Italian Restaurant
+12,0,Bay Terrace,Staten Island,40.55398800858462,-74.13916622175768,Italian Restaurant
+13,2,Baychester,Bronx,40.866858107252696,-73.83579759808117,Pizza Place
+14,0,Bayside,Queens,40.76604063281064,-73.7742736306867,Korean Restaurant
+15,2,Bayswater,Queens,40.611321691283834,-73.76596781445627,Chinese Restaurant
+16,2,Bedford Park,Bronx,40.870185164975325,-73.8855121841913,Chinese Restaurant
+17,2,Bedford Stuyvesant,Brooklyn,40.687231607720456,-73.94178488690297,Pizza Place
+18,0,Beechhurst,Queens,40.79278140360048,-73.80436451720988,Italian Restaurant
+19,2,Bellaire,Queens,40.73301404027834,-73.73889198912481,Chinese Restaurant
+20,0,Belle Harbor,Queens,40.57615556543109,-73.8540175039252,Italian Restaurant
+21,1,Bellerose,Queens,40.72857318176675,-73.72012814826903,Pizza Place
+22,0,Belmont,Bronx,40.85727710073895,-73.88845196134804,Italian Restaurant
+23,2,Bensonhurst,Brooklyn,40.61100890202044,-73.99517998380729,Chinese Restaurant
+24,0,Bergen Beach,Brooklyn,40.61514955045308,-73.89855633630317,Middle Eastern Restaurant
+25,2,Blissville,Queens,40.73725071694497,-73.93244235260178,Chinese Restaurant
+26,1,Bloomfield,Staten Island,40.60577868452358,-74.18725638381567,Pizza Place
+27,0,Boerum Hill,Brooklyn,40.685682912091444,-73.98374824115798,French Restaurant
+28,2,Borough Park,Brooklyn,40.633130512758015,-73.99049823044811,Pizza Place
+29,1,Breezy Point,Queens,40.55740128845452,-73.92551196994168,American Restaurant
+30,2,Briarwood,Queens,40.71093547252271,-73.81174822458634,Fast Food Restaurant
+31,0,Brighton Beach,Brooklyn,40.57682506566604,-73.96509448785336,Eastern European Restaurant
+32,1,Broad Channel,Queens,40.60302658351238,-73.8200548911032,Chinese Restaurant
+33,2,Broadway Junction,Brooklyn,40.67786104769531,-73.90331684852599,Fried Chicken Joint
+34,1,Bronxdale,Bronx,40.85272297633017,-73.86172577555115,Pizza Place
+35,0,Brooklyn Heights,Brooklyn,40.695863722724084,-73.99378225496424,American Restaurant
+36,3,Brookville,Queens,40.66000322733613,-73.75175310731153,Caribbean Restaurant
+37,3,Brownsville,Brooklyn,40.66394994339755,-73.91023536176607,Pizza Place
+38,2,Bulls Head,Staten Island,40.6095918004203,-74.15940948657122,Chinese Restaurant
+39,1,Bushwick,Brooklyn,40.69811611017901,-73.92525797487045,Pizza Place
+40,0,Butler Manor,Staten Island,40.50608165346305,-74.22950350260027,Italian Restaurant
+41,3,Cambria Heights,Queens,40.692774639160845,-73.73526873708026,Caribbean Restaurant
+42,3,Canarsie,Brooklyn,40.63556432797428,-73.90209269778966,Caribbean Restaurant
+43,0,Carnegie Hill,Manhattan,40.7826825671257,-73.95325646837112,New American Restaurant
+44,0,Carroll Gardens,Brooklyn,40.680540231076485,-73.99465372828006,Italian Restaurant
+45,2,Castle Hill,Bronx,40.819014376988314,-73.84802729582735,Spanish Restaurant
+46,1,Castleton Corners,Staten Island,40.61333593766742,-74.11918058534842,Pizza Place
+47,0,Central Harlem,Manhattan,40.81597606742414,-73.94321112603905,Seafood Restaurant
+48,0,Charleston,Staten Island,40.53053148283314,-74.23215775896526,Italian Restaurant
+49,0,Chelsea,Manhattan,40.744034706747975,-74.00311633472813,Italian Restaurant
+49,0,Chelsea,Staten Island,40.59472602746295,-74.1895604551969,Italian Restaurant
+50,0,Chinatown,Manhattan,40.71561842231432,-73.99427936255978,Italian Restaurant
+51,0,City Island,Bronx,40.84724670491813,-73.78648845267413,Seafood Restaurant
+52,2,City Line,Brooklyn,40.67856995727479,-73.86797598081334,Fast Food Restaurant
+53,0,Civic Center,Manhattan,40.71522892046282,-74.00541529873355,Italian Restaurant
+54,2,Claremont Village,Bronx,40.83142834161548,-73.90119903387667,Pizza Place
+55,0,Clason Point,Bronx,40.80655112003589,-73.85414416189266,Seafood Restaurant
+56,2,Clifton,Staten Island,40.61917845202843,-74.072642445484,Pizza Place
+57,0,Clinton,Manhattan,40.75910089146212,-73.99611936309479,Fried Chicken Joint
+58,0,Clinton Hill,Brooklyn,40.693229421881504,-73.96784306216367,Italian Restaurant
+59,2,Co-op City,Bronx,40.87429419303012,-73.82993910812398,Fast Food Restaurant
+60,0,Cobble Hill,Brooklyn,40.687919722485574,-73.99856139218463,French Restaurant
+61,2,College Point,Queens,40.784902749260205,-73.84304528896125,Chinese Restaurant
+62,0,Concord,Staten Island,40.6044731896879,-74.08402364740358,Italian Restaurant
+63,2,Concourse,Bronx,40.83428380733851,-73.91558941773444,Fast Food Restaurant
+64,2,Concourse Village,Bronx,40.824780490842905,-73.91584652759009,Fast Food Restaurant
+65,2,Coney Island,Brooklyn,40.57429256471601,-73.98868295821637,Pizza Place
+66,2,Corona,Queens,40.74238175015667,-73.85682497345258,Latin American Restaurant
+67,2,Country Club,Bronx,40.844245936947374,-73.8240992675385,Pizza Place
+68,2,Crown Heights,Brooklyn,40.67082917695294,-73.94329119073582,Mexican Restaurant
+69,2,Cypress Hills,Brooklyn,40.68239101144211,-73.87661596457296,Chinese Restaurant
+70,2,Ditmas Park,Brooklyn,40.643675183340974,-73.96101312466779,Caribbean Restaurant
+71,1,Dongan Hills,Staten Island,40.588672948199275,-74.09639905312521,Pizza Place
+72,2,Douglaston,Queens,40.76684609790763,-73.7424982072733,Chinese Restaurant
+73,0,Downtown,Brooklyn,40.69084402109802,-73.98346337431099,French Restaurant
+74,1,Dumbo,Brooklyn,40.70317632822692,-73.9887528074504,Pizza Place
+75,0,Dyker Heights,Brooklyn,40.619219457722636,-74.01931375636022,Italian Restaurant
+76,2,East Elmhurst,Queens,40.76407323883091,-73.86704147658772,Pizza Place
+77,3,East Flatbush,Brooklyn,40.64171776668961,-73.93610256185836,Caribbean Restaurant
+78,2,East Harlem,Manhattan,40.79224946663033,-73.94418223148524,Pizza Place
+79,2,East New York,Brooklyn,40.669925700847045,-73.88069863917366,Fast Food Restaurant
+80,2,East Tremont,Bronx,40.84269615786053,-73.88735617532338,Pizza Place
+81,0,East Village,Manhattan,40.727846777270244,-73.98222616506416,Italian Restaurant
+82,2,East Williamsburg,Brooklyn,40.70849241041548,-73.93885815269195,Pizza Place
+83,3,Eastchester,Bronx,40.887555677350775,-73.82780644716412,Caribbean Restaurant
+84,3,Edenwald,Bronx,40.88456130303732,-73.84808271877168,Caribbean Restaurant
+85,3,Edgemere,Queens,40.595641807368494,-73.77613282391705,Pizza Place
+86,0,Edgewater Park,Bronx,40.821986118163494,-73.81388514428619,Italian Restaurant
+87,0,Egbertville,Staten Island,40.579118742961214,-74.12727240604946,Italian Restaurant
+88,2,Elm Park,Staten Island,40.630146741193826,-74.1418167896889,Chinese Restaurant
+89,2,Elmhurst,Queens,40.744048505122024,-73.88165622288388,Thai Restaurant
+90,1,Eltingville,Staten Island,40.542230747450745,-74.1643308041936,Pizza Place
+91,1,Emerson Hill,Staten Island,40.606794394801,-74.09776206972522,Pizza Place
+92,3,Erasmus,Brooklyn,40.64692606658579,-73.94817709920184,Caribbean Restaurant
+93,3,Far Rockaway,Queens,40.603134432500894,-73.75497968043872,Caribbean Restaurant
+94,2,Fieldston,Bronx,40.89543742690383,-73.90564259591682,Pizza Place
+95,0,Financial District,Manhattan,40.70710710727048,-74.0106654452127,Italian Restaurant
+96,2,Flatbush,Brooklyn,40.63632589026677,-73.95840106533903,Caribbean Restaurant
+97,0,Flatiron,Manhattan,40.739673047638426,-73.9909471052826,Italian Restaurant
+98,3,Flatlands,Brooklyn,40.630446043757466,-73.92911302644674,Caribbean Restaurant
+99,2,Floral Park,Queens,40.741378421945434,-73.70884705889246,Indian Restaurant
+100,2,Flushing,Queens,40.76445419697846,-73.83177300329582,Chinese Restaurant
+101,0,Fordham,Bronx,40.86099679638654,-73.89642655981623,Italian Restaurant
+102,2,Forest Hills,Queens,40.72526378216503,-73.84447500788983,Pizza Place
+103,2,Forest Hills Gardens,Queens,40.7146110815117,-73.8410221123401,Pizza Place
+104,0,Fort Greene,Brooklyn,40.68852726018977,-73.97290574369092,Italian Restaurant
+105,0,Fort Hamilton,Brooklyn,40.61476812694226,-74.03197914537984,Middle Eastern Restaurant
+106,1,Fox Hills,Staten Island,40.61731079252983,-74.08173992211962,Pizza Place
+107,2,Fresh Meadows,Queens,40.7343944653313,-73.78271337003264,Chinese Restaurant
+108,0,Fulton Ferry,Brooklyn,40.70328109093014,-73.99550751888415,Seafood Restaurant
+109,2,Georgetown,Brooklyn,40.62384524478419,-73.91607483951324,Pizza Place
+110,0,Gerritsen Beach,Brooklyn,40.590848433902046,-73.93010170691196,Pizza Place
+111,2,Glen Oaks,Queens,40.74944079974332,-73.71548118999145,Indian Restaurant
+112,1,Glendale,Queens,40.70276242967838,-73.87074167435605,Pizza Place
+113,0,Gowanus,Brooklyn,40.673931143187154,-73.99444087145339,Italian Restaurant
+114,0,Gramercy,Manhattan,40.737209832715,-73.98137594833541,Japanese Restaurant
+115,2,Graniteville,Staten Island,40.620171512231884,-74.15315246387762,Pizza Place
+116,0,Grant City,Staten Island,40.57621558711788,-74.10585598545434,Italian Restaurant
+117,0,Grasmere,Staten Island,40.59826835959991,-74.0766743627905,Italian Restaurant
+118,1,Gravesend,Brooklyn,40.59526001306593,-73.97347087708445,Pizza Place
+119,1,Great Kills,Staten Island,40.549480228713605,-74.14932381490992,Italian Restaurant
+120,0,Greenpoint,Brooklyn,40.7302009848647,-73.95424093127393,New American Restaurant
+121,1,Greenridge,Staten Island,40.555295236173194,-74.17079414786092,Asian Restaurant
+122,0,Greenwich Village,Manhattan,40.72693288536128,-73.99991402945902,Italian Restaurant
+123,2,Grymes Hill,Staten Island,40.624184791313006,-74.08724819983729,Pizza Place
+124,2,Hamilton Heights,Manhattan,40.823604284811935,-73.94968791883366,Fried Chicken Joint
+125,2,Hammels,Queens,40.58733774018741,-73.80553002968718,Pizza Place
+126,2,Heartland Village,Staten Island,40.58913894875281,-74.15902208156601,Fast Food Restaurant
+127,2,High  Bridge,Bronx,40.836623010706056,-73.9261020935813,Pizza Place
+128,2,Highland Park,Brooklyn,40.6819989345173,-73.890345709872,Fast Food Restaurant
+129,2,Hillcrest,Queens,40.723824901829204,-73.79760300912672,Pizza Place
+130,3,Hollis,Queens,40.71124344191904,-73.75925009335594,Pizza Place
+131,2,Holliswood,Queens,40.7209572076444,-73.76714166714729,Indian Restaurant
+132,2,Homecrest,Brooklyn,40.598525095137255,-73.95918459428702,Sushi Restaurant
+133,0,Howard Beach,Queens,40.65422527738487,-73.8381376460028,Italian Restaurant
+134,1,Howland Hook,Staten Island,40.63843283794795,-74.18622331749823,American Restaurant
+135,2,Hudson Yards,Manhattan,40.75665808227519,-74.00011136202637,American Restaurant
+136,1,Huguenot,Staten Island,40.531911920489605,-74.19174105747814,Pizza Place
+137,0,Hunters Point,Queens,40.743414090073536,-73.95386782130745,Italian Restaurant
+138,2,Hunts Point,Bronx,40.80972987938709,-73.88331505955291,Seafood Restaurant
+139,2,Inwood,Manhattan,40.86768396449915,-73.92121042203897,Fast Food Restaurant
+140,2,Jackson Heights,Queens,40.75198138007367,-73.88282109164365,Thai Restaurant
+141,2,Jamaica Center,Queens,40.70465736068717,-73.79690165888289,Fast Food Restaurant
+142,2,Jamaica Estates,Queens,40.71680483014613,-73.7872269693666,Indian Restaurant
+143,2,Jamaica Hills,Queens,40.71145964370482,-73.79646462081593,Fast Food Restaurant
+144,2,Kensington,Brooklyn,40.642381958003526,-73.98042110559474,Pizza Place
+145,2,Kew Gardens,Queens,40.7051790354148,-73.82981905825703,Pizza Place
+146,2,Kew Gardens Hills,Queens,40.722578244228046,-73.82087764933566,Asian Restaurant
+147,2,Kingsbridge,Bronx,40.88168737120521,-73.90281798724604,Pizza Place
+148,2,Kingsbridge Heights,Bronx,40.8703923914147,-73.90152264513144,Mexican Restaurant
+149,3,Laurelton,Queens,40.66788389660247,-73.74025607989822,Caribbean Restaurant
+150,0,Lefrak City,Queens,40.736074570830795,-73.8625247141374,Fast Food Restaurant
+151,0,Lenox Hill,Manhattan,40.76811265828733,-73.9588596881376,Italian Restaurant
+152,0,Lighthouse Hill,Staten Island,40.57650629379489,-74.13792663771568,Italian Restaurant
+153,0,Lincoln Square,Manhattan,40.77352888942166,-73.98533777001262,Mexican Restaurant
+154,1,Lindenwood,Queens,40.66391841925139,-73.84963782402441,Pizza Place
+155,0,Little Italy,Manhattan,40.71932379395907,-73.99730467208073,Italian Restaurant
+156,0,Little Neck,Queens,40.7708261928267,-73.7388977558074,Chinese Restaurant
+157,0,Long Island City,Queens,40.75021734610528,-73.93920223915505,Italian Restaurant
+158,2,Longwood,Bronx,40.81509904545822,-73.8957882009446,Fast Food Restaurant
+159,0,Lower East Side,Manhattan,40.71780674892765,-73.98089031999291,Pizza Place
+160,1,Madison,Brooklyn,40.60937770113766,-73.94841515328893,Pizza Place
+161,0,Malba,Queens,40.79060155670148,-73.82667757138641,Italian Restaurant
+162,0,Manhattan Beach,Brooklyn,40.57791350308657,-73.94353722891886,Italian Restaurant
+163,1,Manhattan Terrace,Brooklyn,40.61443251335098,-73.95743840559939,Pizza Place
+164,0,Manhattan Valley,Manhattan,40.797307041702865,-73.96428617740655,Italian Restaurant
+165,0,Manhattanville,Manhattan,40.8169344294978,-73.9573853935188,French Restaurant
+166,1,Manor Heights,Staten Island,40.60180957631444,-74.12059399718001,Pizza Place
+167,2,Marble Hill,Manhattan,40.87655077879964,-73.91065965862981,Pizza Place
+168,2,Marine Park,Brooklyn,40.609747779894604,-73.93134404108497,Italian Restaurant
+169,2,Mariner's Harbor,Staten Island,40.632546390481124,-74.15008537046981,American Restaurant
+170,1,Maspeth,Queens,40.725427374093606,-73.89621713626859,Pizza Place
+171,2,Melrose,Bronx,40.819754370594936,-73.90942160757436,Fast Food Restaurant
+172,1,Middle Village,Queens,40.716414511158185,-73.88114319200604,Pizza Place
+173,1,Midland Beach,Staten Island,40.57352690574283,-74.09348266303591,Pizza Place
+174,0,Midtown,Manhattan,40.75469110270623,-73.98166882730304,Korean Restaurant
+175,0,Midtown South,Manhattan,40.7485096643122,-73.98871313285247,Korean Restaurant
+176,1,Midwood,Brooklyn,40.62559589869843,-73.95759523489838,Pizza Place
+177,2,Mill Basin,Brooklyn,40.61597423962336,-73.91515391550404,Pizza Place
+178,2,Mill Island,Brooklyn,40.606336421685626,-73.90818571777423,Middle Eastern Restaurant
+179,0,Morningside Heights,Manhattan,40.807999738165826,-73.96389627905332,Mexican Restaurant
+180,2,Morris Heights,Bronx,40.84789792606271,-73.91967159119565,Chinese Restaurant
+181,2,Morris Park,Bronx,40.847549063536334,-73.85040178030421,Italian Restaurant
+182,2,Morrisania,Bronx,40.82359198585534,-73.90150648943059,Fast Food Restaurant
+183,2,Mott Haven,Bronx,40.80623874935177,-73.91609987487575,Mexican Restaurant
+184,2,Mount Eden,Bronx,40.84382617671654,-73.91655551964419,Fast Food Restaurant
+185,2,Mount Hope,Bronx,40.84884160724665,-73.90829930881988,Fast Food Restaurant
+186,0,Murray Hill,Manhattan,40.748303077252174,-73.97833207924127,Korean Restaurant
+186,0,Murray Hill,Queens,40.764126122614066,-73.81276269135866,Korean Restaurant
+187,0,Neponsit,Queens,40.572036730217015,-73.85754672410827,Italian Restaurant
+188,2,New Brighton,Staten Island,40.64061455913511,-74.08701650516625,Pizza Place
+189,0,New Dorp,Staten Island,40.57257231820632,-74.1164794360638,Italian Restaurant
+190,1,New Dorp Beach,Staten Island,40.56425549307335,-74.10432707469124,Pizza Place
+191,2,New Lots,Brooklyn,40.6627442796966,-73.88511776379292,Fast Food Restaurant
+192,1,New Springville,Staten Island,40.594252379161695,-74.16496031329827,Pizza Place
+193,0,Noho,Manhattan,40.72325901885768,-73.98843368023597,Pizza Place
+194,2,North Corona,Queens,40.7540709990489,-73.85751790676447,Latin American Restaurant
+195,1,North Riverdale,Bronx,40.90854282950666,-73.90453054908927,Pizza Place
+196,0,North Side,Brooklyn,40.714822906532014,-73.95880857587582,Pizza Place
+197,2,Norwood,Bronx,40.87722415599446,-73.8793907395681,Pizza Place
+198,2,Oakland Gardens,Queens,40.74561857141855,-73.75494976234332,Chinese Restaurant
+199,0,Oakwood,Staten Island,40.5584622432888,-74.12156593771896,Asian Restaurant
+200,2,Ocean Hill,Brooklyn,40.678402554795355,-73.91306831787395,Fried Chicken Joint
+201,1,Ocean Parkway,Brooklyn,40.61305976667942,-73.96836678035541,Pizza Place
+202,0,Old Town,Staten Island,40.59632891379513,-74.08751118005578,Italian Restaurant
+203,3,Olinville,Bronx,40.87137078192371,-73.86332361652777,Caribbean Restaurant
+204,2,Ozone Park,Queens,40.680708468265415,-73.84320266173447,Pizza Place
+205,3,Paerdegat Basin,Brooklyn,40.63131755039667,-73.90233474295836,Caribbean Restaurant
+206,0,Park Hill,Staten Island,40.60919044434558,-74.08015734936296,Italian Restaurant
+207,0,Park Slope,Brooklyn,40.67232052268197,-73.97705030183924,Vietnamese Restaurant
+208,2,Parkchester,Bronx,40.837937822267286,-73.85600310535783,Fast Food Restaurant
+209,2,Pelham Bay,Bronx,40.85064140940335,-73.8320737824047,Italian Restaurant
+210,3,Pelham Gardens,Bronx,40.86296562477998,-73.84161194831223,Caribbean Restaurant
+211,2,Pelham Parkway,Bronx,40.85741349808865,-73.85475564017999,Chinese Restaurant
+212,1,Pleasant Plains,Staten Island,40.524699376118136,-74.21983106616777,Pizza Place
+213,2,Pomonok,Queens,40.73493618075478,-73.80486120040537,Pizza Place
+214,3,Port Ivory,Staten Island,40.63968297845542,-74.17464532993542,American Restaurant
+215,2,Port Morris,Bronx,40.801663627756206,-73.91322139386135,Pizza Place
+216,1,Port Richmond,Staten Island,40.63366930554365,-74.12943426797008,Pizza Place
+217,1,Prince's Bay,Staten Island,40.52626406734812,-74.20152556457658,Pizza Place
+218,0,Prospect Heights,Brooklyn,40.676822262254724,-73.9648592426269,New American Restaurant
+219,3,Prospect Lefferts Gardens,Brooklyn,40.658420017469815,-73.95489867077713,Caribbean Restaurant
+220,3,Prospect Park South,Brooklyn,40.647008603185185,-73.96261316716048,Caribbean Restaurant
+221,3,Queens Village,Queens,40.718893092167356,-73.73871484578424,Caribbean Restaurant
+222,2,Queensboro Hill,Queens,40.7445723092867,-73.82580915110559,Chinese Restaurant
+223,0,Queensbridge,Queens,40.756091297094706,-73.94563070334091,Italian Restaurant
+224,2,Randall Manor,Staten Island,40.63563000681151,-74.09805062373887,Pizza Place
+225,0,Ravenswood,Queens,40.761704526054146,-73.93157506072878,Mexican Restaurant
+226,1,Red Hook,Brooklyn,40.676253230250886,-74.0127589747356,Seafood Restaurant
+227,2,Rego Park,Queens,40.72897409480735,-73.8578268690537,Pizza Place
+228,3,Remsen Village,Brooklyn,40.652117451793494,-73.91665331978048,Caribbean Restaurant
+229,2,Richmond Hill,Queens,40.69794731471763,-73.83183321446887,Indian Restaurant
+230,0,Richmond Town,Staten Island,40.56960594275505,-74.1340572986257,Italian Restaurant
+231,0,Richmond Valley,Staten Island,40.51954145748909,-74.22957080626941,Italian Restaurant
+232,2,Ridgewood,Queens,40.70832315613858,-73.90143517559589,American Restaurant
+233,2,Riverdale,Bronx,40.890834493891305,-73.9125854610857,Pizza Place
+234,3,Rochdale,Queens,40.67521139591733,-73.77258787620906,Caribbean Restaurant
+235,2,Rockaway Beach,Queens,40.582801696845586,-73.82236121088751,Pizza Place
+236,1,Rockaway Park,Queens,40.58034295646131,-73.84153370226186,Pizza Place
+237,0,Roosevelt Island,Manhattan,40.76215960576283,-73.94916769227953,Mexican Restaurant
+238,1,Rosebank,Staten Island,40.61530494652761,-74.06980526716141,Pizza Place
+239,3,Rosedale,Queens,40.659816433428084,-73.73526079428278,Caribbean Restaurant
+240,1,Rossville,Staten Island,40.54940400650072,-74.21572851113952,Pizza Place
+241,1,Roxbury,Queens,40.56737588957032,-73.89213760232822,Taco Place
+242,3,Rugby,Brooklyn,40.655572313280764,-73.92688212616955,Caribbean Restaurant
+243,1,Sandy Ground,Staten Island,40.541139922091766,-74.21776636068567,Pizza Place
+244,2,Schuylerville,Bronx,40.82657951686922,-73.82620275994073,American Restaurant
+245,2,Sea Gate,Brooklyn,40.57637537890224,-74.0078731120024,Chinese Restaurant
+246,0,Sheepshead Bay,Brooklyn,40.58689012678384,-73.94318640482979,Sushi Restaurant
+247,1,Shore Acres,Staten Island,40.60971934079284,-74.06667766061771,Pizza Place
+248,2,Silver Lake,Staten Island,40.61919310792676,-74.09629029235458,American Restaurant
+249,0,Soho,Manhattan,40.72218384131794,-74.00065666959759,Italian Restaurant
+250,3,Somerville,Queens,40.59771061565768,-73.79664750844047,Pizza Place
+251,2,Soundview,Bronx,40.821012197914015,-73.86574609554924,Fried Chicken Joint
+252,1,South Beach,Staten Island,40.58024741350956,-74.0795529253982,Pizza Place
+253,3,South Jamaica,Queens,40.696911253789885,-73.7904261313554,Caribbean Restaurant
+254,3,South Ozone Park,Queens,40.66854957767195,-73.80986478649041,Chinese Restaurant
+255,0,South Side,Brooklyn,40.71086147265064,-73.95800095153331,Pizza Place
+256,3,Springfield Gardens,Queens,40.666230490368584,-73.76042092682287,Chinese Restaurant
+257,2,Spuyten Duyvil,Bronx,40.88139497727086,-73.91719048210393,Mexican Restaurant
+258,3,St. Albans,Queens,40.69444538522359,-73.75867603727717,Caribbean Restaurant
+259,2,St. George,Staten Island,40.6449815710044,-74.07935312512797,Pizza Place
+260,2,Stapleton,Staten Island,40.62692762538176,-74.07790192660066,Pizza Place
+261,1,Starrett City,Brooklyn,40.64758905230874,-73.87936970045875,Pizza Place
+262,0,Steinway,Queens,40.775923015642896,-73.90228960391673,Italian Restaurant
+263,0,Stuyvesant Town,Manhattan,40.73099955477061,-73.97405170469203,Italian Restaurant
+264,2,Sunnyside,Queens,40.74017628351924,-73.92691617561577,Pizza Place
+264,2,Sunnyside,Staten Island,40.61276015756489,-74.0971255217853,Pizza Place
+265,2,Sunnyside Gardens,Queens,40.74565180608076,-73.91819286431682,Fast Food Restaurant
+266,2,Sunset Park,Brooklyn,40.64510294925429,-74.01031618527784,Mexican Restaurant
+267,0,Sutton Place,Manhattan,40.76028033131374,-73.96355614094303,American Restaurant
+268,1,Throgs Neck,Bronx,40.81510925804005,-73.81635002158441,Italian Restaurant
+269,1,Todt Hill,Staten Island,40.59706851814673,-74.1113288180088,Pizza Place
+270,2,Tompkinsville,Staten Island,40.637316067110326,-74.08055351790115,Pizza Place
+271,0,Tottenville,Staten Island,40.50533376115642,-74.24656934235283,Italian Restaurant
+272,1,Travis,Staten Island,40.58631375103281,-74.19073717538116,Pizza Place
+273,0,Tribeca,Manhattan,40.721521967443216,-74.01068328559087,French Restaurant
+274,0,Tudor City,Manhattan,40.746917410740195,-73.97121928722265,Korean Restaurant
+275,2,Turtle Bay,Manhattan,40.75204236950722,-73.96770824581834,American Restaurant
+276,2,Unionport,Bronx,40.82977429787161,-73.85053524451935,Fast Food Restaurant
+277,2,University Heights,Bronx,40.85572707719664,-73.9104159619131,Fast Food Restaurant
+278,0,Upper East Side,Manhattan,40.775638573301805,-73.96050763135,Thai Restaurant
+279,0,Upper West Side,Manhattan,40.787657998534854,-73.97705923630603,American Restaurant
+280,2,Utopia,Queens,40.73350025429757,-73.79671678028349,Pizza Place
+281,2,Van Nest,Bronx,40.84360847124718,-73.8662991807561,Pizza Place
+282,1,Vinegar Hill,Brooklyn,40.70332149882874,-73.98111603592393,Pizza Place
+283,3,Wakefield,Bronx,40.89470517661,-73.84720052054902,Caribbean Restaurant
+284,2,Washington Heights,Manhattan,40.85190252555305,-73.93690027985234,Mexican Restaurant
+285,3,Weeksville,Brooklyn,40.67503986503237,-73.93053108817338,Caribbean Restaurant
+286,1,West Brighton,Staten Island,40.63187892654607,-74.1071817826561,Pizza Place
+287,2,West Farms,Bronx,40.83947505672653,-73.87774474910545,Fast Food Restaurant
+288,0,West Village,Manhattan,40.73443393572434,-74.00617998126812,Italian Restaurant
+289,2,Westchester Square,Bronx,40.8406194964327,-73.84219407604444,Fast Food Restaurant
+290,2,Westerleigh,Staten Island,40.62109047275409,-74.13304143951704,Chinese Restaurant
+291,0,Whitestone,Queens,40.78129076602694,-73.81420216610863,Italian Restaurant
+292,3,Williamsbridge,Bronx,40.88103887819211,-73.85744642974207,Caribbean Restaurant
+293,2,Williamsburg,Brooklyn,40.70714439344251,-73.95811529220927,Pizza Place
+294,1,Willowbrook,Staten Island,40.60370692627371,-74.13208447484298,Pizza Place
+295,0,Windsor Terrace,Brooklyn,40.65694583575104,-73.98007340430172,Italian Restaurant
+296,3,Wingate,Brooklyn,40.66094656188111,-73.93718680559314,Caribbean Restaurant
+297,2,Woodhaven,Queens,40.68988687915789,-73.8581104655432,Pizza Place
+298,3,Woodlawn,Bronx,40.89827261213805,-73.86731496814176,Caribbean Restaurant
+299,1,Woodrow,Staten Island,40.541967622888755,-74.20524582480326,Pizza Place
+300,2,Woodside,Queens,40.74634908860222,-73.90184166838284,Fast Food Restaurant
+301,0,Yorkville,Manhattan,40.775929849884875,-73.94711784471826,Italian Restaurant
